@@ -9,6 +9,13 @@ public class User {
 		ln.cut();
 		ln.paste();
 		ln.keyboard();
+		
+		
+		ln.security();
+		
+		Laptop.charger();
+		
+		
 
 	}
 

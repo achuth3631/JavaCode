@@ -30,4 +30,11 @@ public class Lenovo implements Laptop {
 	{
 		System.out.println("Lenovo Camera code");
 	}
+	
+	@Override
+	public void security()
+	{
+		System.out.println("Lenovo Laptop code executed");
+
+	}
 }
